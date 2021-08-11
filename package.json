@@ -1,6 +1,7 @@
 {
-  "name": "node-module-runner",
+  "name": "node-src-runner",
   "author": "Anh Le",
+  "description": "Dynamically run code source in Node.js",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
