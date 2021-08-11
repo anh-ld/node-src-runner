@@ -35,8 +35,3 @@ const execute = (code: string): Exports => {
 }
 
 export default execute;
-
-// TEST (USING NANOID)
-// const CODE_STRING = 'var nanoid = require("nanoid").nanoid; var x = { name: nanoid() }; exports.default = x;';
-
-// console.log(execute(CODE_STRING));
